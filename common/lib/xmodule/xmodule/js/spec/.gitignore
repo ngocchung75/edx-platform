@@ -1,4 +1,0 @@
-*.js
-
-# Tests for video are written in pure JavaScript.
-!video/*.js
